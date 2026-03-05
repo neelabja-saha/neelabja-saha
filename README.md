@@ -1,6 +1,6 @@
 # Hi, I'm Neelabja Saha 👋
 
-**Senior Product Manager** specialising in **Data & AI Platform Products** — building scalable, governed, and intelligent systems in regulated enterprise environments.
+**Senior Product Owner** specialising in **Data & AI Platform Products** — building scalable, governed, and intelligent systems in regulated enterprise environments.
 
 Currently at **American Express**, leading cloud data infrastructure products on GCP. Previously at **Infosys Consulting** and **Microsoft India R&D**.
 
