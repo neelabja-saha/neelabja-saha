@@ -38,13 +38,10 @@ Currently at **American Express**, leading cloud data infrastructure products on
 
 ## 🚀 Currently Building
 
-> **Agentic AI projects at the intersection of data platforms and product management** — each repo includes a PM Brief, architecture diagram, and a retrospective on product decisions made during the build.
-
-| Project | Description | Status |
-|---|---|---|
-| `data-ingestion-agent` | LLM agent that monitors pipeline SLAs, detects anomalies & auto-generates RCA reports | In Progress |
-| `agentic-governance-scanner` | Multi-agent system for PII detection, risk classification & governance action planning | Upcoming |
-| `pm-prioritization-copilot` | Agentic tool that scores feature requests using RICE/ICE and outputs a prioritized backlog | Upcoming |
+| `data-ingestion-agent` | LLM agent for pipeline SLA monitoring & RCA | 🔄 Starting March 2026 |
+| `agentic-governance-scanner` | Multi-agent system for PII detection & governance | 🗓️ Upcoming |
+| `pm-prioritization-copilot` | Agentic tool for feature scoring & backlog prioritization | 🗓️ Upcoming |
+```
 
 ---
 
