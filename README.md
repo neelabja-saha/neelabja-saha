@@ -42,9 +42,9 @@ Currently at **American Express**, leading cloud data infrastructure products on
 
 | Project | Description | Status |
 |---|---|---|
-| `data-ingestion-agent` | LLM agent that monitors pipeline SLAs, detects anomalies & auto-generates RCA reports | 🔄 In Progress |
-| `agentic-governance-scanner` | Multi-agent system for PII detection, risk classification & governance action planning | 🗓️ Upcoming |
-| `pm-prioritization-copilot` | Agentic tool that scores feature requests using RICE/ICE and outputs a prioritized backlog | 🗓️ Upcoming |
+| `data-ingestion-agent` | LLM agent that monitors pipeline SLAs, detects anomalies & auto-generates RCA reports | In Progress |
+| `agentic-governance-scanner` | Multi-agent system for PII detection, risk classification & governance action planning | Upcoming |
+| `pm-prioritization-copilot` | Agentic tool that scores feature requests using RICE/ICE and outputs a prioritized backlog | Upcoming |
 
 ---
 
