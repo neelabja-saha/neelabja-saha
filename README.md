@@ -73,9 +73,10 @@ Currently at **American Express**, leading cloud data infrastructure products on
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-neelabja--saha-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/neelabja-saha)
-[![Email](https://img.shields.io/badge/Email-neelabjasahaofficial@gmail.com-D14836?style=flat&logo=gmail)](mailto:neelabjasahaofficial@gmail.com)
-
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [neelabja-saha](https://www.linkedin.com/in/neelabja-saha) |
+| 📧 Email | [neelabjasahaofficial@gmail.com](mailto:neelabjasahaofficial@gmail.com) |
 ---
 
 *⚡ I'm a PM who ships — every repo here includes a product brief, not just code.*
