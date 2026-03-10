@@ -38,6 +38,8 @@ Currently at **American Express**, leading cloud data infrastructure products on
 
 ## 🚀 Currently Building
 
+| Project | Description | Status |
+|---|---|---|
 | `data-ingestion-agent` | LLM agent for pipeline SLA monitoring & RCA | 🔄 Starting March 2026 |
 | `agentic-governance-scanner` | Multi-agent system for PII detection & governance | 🗓️ Upcoming |
 | `pm-prioritization-copilot` | Agentic tool for feature scoring & backlog prioritization | 🗓️ Upcoming |
