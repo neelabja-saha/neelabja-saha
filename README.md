@@ -41,8 +41,8 @@ Currently at **American Express**, leading cloud data products on GCP. Previousl
 | Project | Description | Status |
 |---|---|---|
 | `data-ingestion-agent` | LLM agent for pipeline SLA monitoring & RCA | ✅ Version 1 Launched |
-| `agentic-governance-scanner` | Multi-agent system for PII detection & governance | 🔨 Starting March 2026 |
-| `hallucination-auditor-agent` | Meta-agent system for hallucination detection, scoring & self-improvement of agentic pipelines | 📅 Upcoming |
+| `hallucination-auditor-agent` | Meta-agent system for hallucination detection, scoring & self-improvement of agentic pipelines | ✅ Version 1 Launched |
+| `agentic-governance-scanner` | Multi-agent system for PII detection & governance | 🔨 Starting April 2026 |
 
 ---
 
