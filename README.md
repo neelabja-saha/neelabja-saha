@@ -44,6 +44,7 @@ Currently at **American Express**, leading cloud data products on GCP. Previousl
 | `hallucination-auditor-agent` | Meta-agent system for hallucination detection, scoring & self-improvement of agentic pipelines | ✅ Version 1 Launched |
 | `agentic-transaction-verifier` | Delegation chain trust layer for agent-initiated card transactions | ✅ Version 1 Launched |
 | `cardnet-chain-sentinel` | Real-time agentic SOC surfacing card network health on live dashboard | ✅ Version 1 Launched |
+| `card-fraud-simulation` | Adversarial RL simulation — Q-learning fraudulent agents vs adaptive blue team in agentic commerce. | ✅ Version 1 Launched |
 
 ---
 
