@@ -45,6 +45,7 @@ Currently at **American Express**, leading cloud data products on GCP. Previousl
 | `agentic-transaction-verifier` | Delegation chain trust layer for agent-initiated card transactions | ✅ Version 1 Launched |
 | `cardnet-chain-sentinel` | Real-time agentic SOC surfacing card network health on live dashboard | ✅ Version 1 Launched |
 | `card-fraud-simulation` | Adversarial RL simulation — Q-learning fraudulent agents vs adaptive blue team in agentic commerce. | ✅ Version 1 Launched |
+| `rotating-carousels-for-episodic-memory-in-llms` | A rotating carousel memory architecture that gives LLMs the ability to never forget. | ✅ Version 1 Launched |
 
 ---
 
